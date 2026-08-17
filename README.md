@@ -29,10 +29,11 @@ Focus areas: **Kubernetes**, multi-cloud (**AWS · GCP · Azure**), and observab
 
 ### Pinned projects
 
-- 🧰 **aws-toolbox** — collection of utilities for common AWS operational tasks
-- 🎛️ **cask3tt** — Pure Data components for sound design
-- 📈 **spectogram** — interactive spectrogram tool (Go + Python)
-- 📚 **awesome-sound-design-resources** — curated list of sound design references
+- 📚 **[awesome-sound-design-resources](https://github.com/landscape82/awesome-sound-design-resources)** — curated list of sound design references
+- 🔌 **[awesome-eurorack-modular-resources](https://github.com/landscape82/awesome-eurorack-modular-resources)** — metadata-driven catalogue of open-source Eurorack firmware, hardware & SDKs
+- 🧰 **[aws-toolbox](https://github.com/landscape82/aws-toolbox)** — collection of utilities for common AWS operational tasks
+- 📈 **[spectogram](https://github.com/landscape82/spectogram)** — interactive spectrogram tool (Go + Python)
+- 🎛️ **[cask3tt](https://github.com/landscape82/cask3tt)** — Pure Data components for sound design
 
 ---
 
