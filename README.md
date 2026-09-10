@@ -15,31 +15,31 @@ Focus areas: **Kubernetes**, multi-cloud (**AWS · GCP · Azure**), and observab
 
 ### Tech & tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://github.com/hashicorp/terraform)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://github.com/ansible/ansible)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)](https://github.com/helm/helm)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)](https://github.com/argoproj/argo-cd)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white)
-![Testkube](https://img.shields.io/badge/Testkube-6C47FF?logo=kubernetes&logoColor=white)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://github.com/prometheus/prometheus)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://github.com/grafana/grafana)
+[![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)](https://github.com/grafana/loki)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/elasticsearch)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)](https://github.com/open-telemetry/opentelemetry-specification)
+[![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white)](https://www.pagerduty.com/)
+[![Testkube](https://img.shields.io/badge/Testkube-6C47FF?logo=kubernetes&logoColor=white)](https://github.com/kubeshop/testkube)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 
-![Max for Live](https://img.shields.io/badge/Max%20for%20Live-525252?logo=abletonlive&logoColor=white)
-![Pure Data](https://img.shields.io/badge/Pure%20Data-222222?logoColor=white)
-![Daisy Seed](https://img.shields.io/badge/Daisy%20Seed-1F1F1F?logoColor=white)
+[![Max for Live](https://img.shields.io/badge/Max%20for%20Live-525252?logo=abletonlive&logoColor=white)](https://www.ableton.com/en/live/max-for-live/)
+[![Pure Data](https://img.shields.io/badge/Pure%20Data-222222?logoColor=white)](https://puredata.info/)
+[![Daisy Seed](https://img.shields.io/badge/Daisy%20Seed-1F1F1F?logoColor=white)](https://electro-smith.com/products/daisy-seed)
 
 ### Pinned projects
 
