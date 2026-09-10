@@ -31,6 +31,9 @@ Focus areas: **Kubernetes**, multi-cloud (**AWS · GCP · Azure**), and observab
 
 - 📚 **[awesome-sound-design-resources](https://github.com/landscape82/awesome-sound-design-resources)** — curated list of sound design references
 - 🔌 **[awesome-eurorack-modular-resources](https://github.com/landscape82/awesome-eurorack-modular-resources)** — metadata-driven catalogue of open-source Eurorack firmware, hardware & SDKs
+- 🃏 [MTG Analytics](https://mtg-meta-index.pages.dev/) — currently developing an analytics platform for Magic: The Gathering market, set and card trends  
+  [![MTG Analytics](https://img.shields.io/badge/MTG-Analytics-B7472A?style=flat&labelColor=1f1f1f)](https://mtg-meta-index.pages.dev/)
+  ![Status](https://img.shields.io/badge/status-active%20development-yellow?style=flat)
 - 🧰 **[aws-toolbox](https://github.com/landscape82/aws-toolbox)** — collection of utilities for common AWS operational tasks
 - 📈 **[spectogram](https://github.com/landscape82/spectogram)** — interactive spectrogram tool (Go + Python)
 - 🎛️ **[cask3tt](https://github.com/landscape82/cask3tt)** — Pure Data components for sound design
