@@ -37,7 +37,7 @@ Focus areas: **Kubernetes**, multi-cloud (**AWS · GCP · Azure**), and observab
 
 ---
 
-🃏 MTG Analytics
+🃏 **MTG Analytics**
 
 Currently developing MTG Analytics — an analytics platform for Magic: The Gathering market, set and card trends.
 
