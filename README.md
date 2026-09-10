@@ -42,7 +42,7 @@ Focus areas: **Kubernetes**, multi-cloud (**AWS · GCP · Azure**), and observab
 Currently developing MTG Analytics — an analytics platform for Magic: The Gathering market, set and card trends.
 
 <p align="center">
-  <a href="https://mtg-meta-index.pages.dev/"><img src="https://img.shields.io/badge/MTG-Analytics-B7472A?style=flat&labelColor=1f1f1f" alt="MTG Analytics"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/status-active%20development-yellow?style=flat" alt="Status">
+  <a href="https://mtg-meta-index.pages.dev/"><img src="https://img.shields.io/badge/Visit%20project-MTG%20Analytics-B7472A?style=flat&labelColor=1f1f1f" alt="Visit MTG Analytics"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/status-active%20development-yellow?style=flat" alt="Status">
 </p>
 
 ---
